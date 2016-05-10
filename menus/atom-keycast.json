@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle generated-package",
-        "command": "generated-package:toggle"
+        "label": "Toggle keycast",
+        "command": "atom-keycast:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "generated-package",
+          "label": "keycast",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "generated-package:toggle"
+              "command": "atom-keycast:toggle"
             }
           ]
         }

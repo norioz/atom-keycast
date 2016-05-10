@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "generated-package:toggle"
+    "ctrl-alt-k": "atom-keycast:toggle"
   }
 }
